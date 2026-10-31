@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nicolagrillo1984/nicolagrillo1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://nicolagrillo1984.github.io/personalsite/assets/img/linkedin-banner.jpg" alt="Nicola Grillo — From data to decisions. From AI to real value." width="100%">
 
-Here are some ideas to get you started:
+### Director, Data, AI & CRM Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I lead Data, AI & CRM Systems at Group level for one of Europe's leading gaming companies — built the function from the ground up to 90+ people and 100+ initiatives, with one mission: moving AI from experimentation to measurable value.
+
+[Site & blog](https://nicolagrillo1984.github.io/personalsite/) · [LinkedIn](https://www.linkedin.com/in/nicola-grillo-2277b113) · [Writing](https://nicolagrillo1984.github.io/personalsite/blog/)
+
+</div>
+
+---
+
+**Currently writing about:** AI adoption, data governance, and what it actually takes to move an organization from pilots to production — [latest posts →](https://nicolagrillo1984.github.io/personalsite/blog/)
